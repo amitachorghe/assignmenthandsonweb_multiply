@@ -1,0 +1,33 @@
+h1 {
+    text-align: center;
+    color: #4E342E;
+    text-shadow: cadetblue;
+    font-family: 'Dancing Script', cursive;
+}
+body {
+    background-color: #BCAAA4;
+}
+.firstn,.secondn,.thirdn {
+    border: 1px solid black;
+    border-radius: 12px;
+    background-color: #F4F6F6;
+}
+.answer {
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: #F4F6F6;
+    font-family: 'Bitter', serif;
+
+}
+.click {
+    border: 1px solid black;
+    border-radius: 2px;
+    background-color: #F4F6F6;
+}
+div {
+    margin-top: 70px;
+    margin-left: 500px;
+}
+.middle {
+    text-align: center;
+}
